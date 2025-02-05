@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://shashank-bhardwaj-portfolio.netlify.app/"
 languageCode: "en-us"
 title: "Shashank Portfolio"
 theme: hugo-profile
@@ -130,7 +130,7 @@ params:
     intro: "Hi, my name is"
     title: "Shashank"
     subtitle: "Full stack developer with experience leading engineering teams"
-    content: "I'm a passionate full stack software developer. While serving as Engineering Lead for UnitedHealth Group I've lead global deployments of HealthCare Platforms. I've 7 years of experience ideating, developing and deploying 
+    content: "I'm a passionate full stack software developer. While serving as Engineering Lead for UnitedHealth Group I've lead global deployments of HealthCare Platforms. I've 7 years of experience ideating, developing and deploying
     image: /images/hero.svg
     bottomImage:
       enable: true
