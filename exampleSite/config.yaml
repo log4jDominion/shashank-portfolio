@@ -161,11 +161,11 @@ params:
       enable: true
       title: "Here are the technologies I've experience working with:"
       items:
-        - content: "Backend Development : Java, Python, Spring frameworks, Kafka, Spark, Selenium, TensorFlow"
-        - content: "Database : OracleDB, Postgres, CassandraDB, MongoDB, H2 database"
-        - content: "Cloud Platforms : Docker, Kubernetes engines, Jenkins, Openshift, AWS, GCP, OpenFaaS"
-        - content: "Security : OIDC, OAuth 2.0, Stargate API Gateway, LDAP authentication, SSO, OWASP"
-        - content: "Frontend Development : React JS, Angular, BootStrap, JavaScript, HTML, CSS"
+        - "Backend Development: Java, Python, Spring frameworks, Kafka, Spark, Selenium, TensorFlow"
+        - "Database: OracleDB, Postgres, CassandraDB, MongoDB, H2 database"
+        - "Cloud Platforms: Docker, Kubernetes engines, Jenkins, Openshift, AWS, GCP, OpenFaaS"
+        - "Security: OIDC, OAuth 2.0, Stargate API Gateway, LDAP authentication, SSO, OWASP"
+        - "Frontend Development: React JS, Angular, BootStrap, JavaScript, HTML, CSS"
 
   # Experience
   experience:
