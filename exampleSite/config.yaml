@@ -157,14 +157,15 @@ params:
       I am a full stack software developer with 7 years of experience working and expertise in Backend Development, Cloud Technologies, and AI solutions. Last 3 years I was working as Engineering Lead in Arizona and India leading a team of 10 engineers building state of the art HealthCare solutions for 30+ states of United States
 
       I am currently pursuing Master of Engineering in Cloud Engineering from University of Maryland, College Park (Jan 2024 - May 2025).
-
-      Here are the technologies I've experience working with:
-
-      Backend Development : Java, Python, Spring frameworks, Kafka, Spark, Selenium, TensorFlow
-      Database : OracleDB, Postgres, CassandraDB, MongoDB, H2 database
-      Cloud Platforms : Docker, Kubernetes engines, Jenkins, Openshift, AWS, GCP, OpenFaaS
-      Security : OIDC, OAuth 2.0, Stargate API Gateway, LDAP authentication, SSO, OWASP
-      Frontend Development : React JS, Angular, BootStrap, JavaScript, HTML, CSS
+    skills:
+      enable: true
+      title: "Here are the technologies I've experience working with:"
+      content: |-
+        Backend Development : Java, Python, Spring frameworks, Kafka, Spark, Selenium, TensorFlow
+        Database : OracleDB, Postgres, CassandraDB, MongoDB, H2 database
+        Cloud Platforms : Docker, Kubernetes engines, Jenkins, Openshift, AWS, GCP, OpenFaaS
+        Security : OIDC, OAuth 2.0, Stargate API Gateway, LDAP authentication, SSO, OWASP
+        Frontend Development : React JS, Angular, BootStrap, JavaScript, HTML, CSS
 
   # Experience
   experience:
