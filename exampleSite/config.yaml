@@ -161,7 +161,7 @@ params:
       enable: true
       title: "Here are the technologies I've experience working with:"
       items:
-        - "Backend Development: Java, Python, Spring frameworks, Kafka, Spark, Selenium, TensorFlow"
+        - "Backend Development: Java, Python, Spring frameworks, Kafka, Spark, Selenium, TensorFlow, RAG"
         - "Database: OracleDB, Postgres, CassandraDB, MongoDB, H2 database"
         - "Cloud Platforms: Docker, Kubernetes engines, Jenkins, Openshift, AWS, GCP, OpenFaaS"
         - "Security: OIDC, OAuth 2.0, Stargate API Gateway, LDAP authentication, SSO, OWASP"
@@ -180,15 +180,19 @@ params:
           enable: false
           name: "View the project"
           url: "https://example.com"
-        content: "Lead a team of 10 engineers to deploy"
+        content: |
+          Lead a team of 10 engineers to build:
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+          - Led development and global deployment of Rules as a Service (NEMIS 3C) platform, building centralized organizational microservices architecture a 1 stop shop for validating, processing, and reporting 1+ mil insurance claims per second. Currently, the platform serves as Rules Engine for 60+ global teams.
+          - Created Generative AI that builds test data through domain-specific textual scenarios. Utilizing RAG pipeline, OpenAI APIs and tabular legacy data teams were able to leverage AI to generate mock healthcare claims for testing features.
+
+      - job: "Sr. Software Developer"
+        company: "UnitedHealth Group"
+        companyUrl: "https://www.unitedhealthgroup.com/"
+        date: "Feb 2019 - Dec 2020"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://www.uhcprovider.com/"
         info:
           enable: true
           content: I worked as a software developer for more than one year in Amazon.
