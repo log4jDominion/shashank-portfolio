@@ -152,7 +152,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/mypic.png"
     content: |-
       I am a full stack software developer with 7 years of experience working and expertise in Backend Development, Cloud Technologies, and AI solutions. Last 3 years I was working as Engineering Lead in Arizona and India leading a team of 10 engineers building state of the art HealthCare solutions for 30+ states of United States
 
