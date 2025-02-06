@@ -199,42 +199,41 @@ params:
         content: |
           I worked as a Full Stack Developer at UnitedHealth Group in Noida, India. I automated the SQL based healthcare claims processing business modules through:
 
-          - Built [UHC provider platform](https://www.uhcprovider.com/) to connect healthcare providers .
-          - Created a frontend design for a product.
+          - Built UHC provider platform [uhcprovider.com](https://www.uhcprovider.com/) to connect healthcare providers .
+          - Developed a distributed architecture of Spark, Rest APIs and NoSQL to validate 6,000 healthcare claims per second.
 
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+      - job: "Software Developer"
+        company: "Optum Global Solutions"
+        companyUrl: "https://www.optum.com/en/about-us.html"
+        date: "Jul 2017 - Jan 2019"
         info:
-          enable: false
+          enable: true
+          content: ""
+        content: |
+          Started my professional journey at [Optum Global Solutions.](https://www.optum.com/en/about-us.html) in Noida, India. There I led initiative to modernize legacy business modules:
+
+          - As part of the research wing, proposed and implemented UnitedHealth Group Insurance Claim Suite application for a one-stop shop for all claims-related operations for medicare plan owners..
+          - Developed and patented a comprehensive enterprise authentication mechanism to authenticate both UI and APIs utilizing OIDC, OAuth 2.0, Stargate, and JWT.
+
+      - job: "Research Intern"
+        company: "Optum Global Solutions"
+        companyUrl: "https://example.com"
+        date: "May 2016 - Aug 2016"
         featuredLink:
           enable: true
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          Worked as a Research Intern at [Optum Global Solutions.](https://www.optum.com/en/about-us.html), Gurugram, India, developing assessment frameworks to evaluate DevOps adoption during its implementation alongside the Agile model.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "UI/UX Designer"
-        company: "Netflix"
+      - job: "Research Assistant"
+        company: "University of Maryland"
         companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+        date: "Oct 2024 - May 2025"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          Developed a search engine for the U.S. National Archives (NARA) to enhance retrieval of partially digitized and physical records. Leveraged Graph Neural Networks and ColBERT to link physical records with digital representations. Integrated OCR outputs and archival metadata for improved searchability and implemented a Late Interaction ranking mechanism for better query relevance. This work enhances access to archival collections by bridging the gap between digital and physical records.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+          - Official submission to NTCIR-18 SUSHI (Searching Unseen Sources for Historical Information) shared task for searching for archival materials and analyzing them organized by the U.S. National Archives and Records Administration (NARA).
+          - Documented and Published Research paper in ACM SIGIR 2025, Padua, Italy.
 
   # Education
   education:
