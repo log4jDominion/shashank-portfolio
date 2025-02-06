@@ -195,11 +195,11 @@ params:
           url: "https://www.uhcprovider.com/"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          content: I worked as a sr. software developer for more than one year in UHG.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          I worked as a Full Stack Developer at UnitedHealth Group in Noida, India. I automated the SQL based healthcare claims processing business modules through:
 
-          - Lead backend developer for a product.
+          - Built [UHC provider platform](https://www.uhcprovider.com/) to connect healthcare providers .
           - Created a frontend design for a product.
 
       - job: "Junior Software Developer"
@@ -242,22 +242,22 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Master of Engineering in Cloud Engineering"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "University of Maryland, College Park"
+          url: "https://umd.edu/"
+        date: "Jan 2024 - May 2025"
+        GPA: "4.0 out of 4.0"
         content: |-
           Extracurricular Activities
             - Lorem ipsum dolor sit amet consectetur adipisicing elit.
             - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+      - title: "Bachelor of Technology in Electronics and Communication Engineering"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+          name: "Motilal Nehru National Institute of Technology ALlahabad, Prayagraj"
+          url: "https://www.mnnit.ac.in/"
+        date: "2013 - 2017"
+        GPA: "8.28 out of 10.0"
         content: |-
           I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
           - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
