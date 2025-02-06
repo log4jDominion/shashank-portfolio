@@ -164,7 +164,7 @@ params:
         - "BACKEND DEVELOPMENT: Java, Python, Spring frameworks, Kafka, Spark, Selenium, TensorFlow, RAG"
         - "DATABASE: OracleDB, Postgres, CassandraDB, MongoDB, H2 database"
         - "CLOUD PLATFORMS: Docker, Kubernetes engines, Jenkins, Openshift, AWS, GCP, OpenFaaS"
-        - "SECURITY: OIDC, OAuth 2.0, Stargate API Gateway, LDAP authentication, SSO, OWASP"
+        - "SECURITY: OAuth 2.0, OIDC, Stargate API Gateway, LDAP authentication, SSO, OWASP"
         - "FRONTEND DEVELOPMENT: React JS, Angular, BootStrap, JavaScript, HTML, CSS"
 
   # Experience
