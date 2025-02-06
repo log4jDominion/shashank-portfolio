@@ -131,7 +131,7 @@ params:
     title: "Shashank"
     subtitle: "Full-stack developer Engineering Lead"
     content: "I'm a passionate full stack software developer. While serving as Engineering Lead for UnitedHealth Group I've lead global deployments of HealthCare Platforms. I've 7 years of experience ideating, developing and deploying scalable distributed systems."
-    image: /images/Pic.1.png
+    image: /images/Picture1.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
