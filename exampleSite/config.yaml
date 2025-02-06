@@ -250,7 +250,7 @@ params:
           url: "https://drive.google.com/file/d/1Zgm0TJ0MHEn-3kUq0F4YcUBjPmdI1hVI/view?usp=sharing"
       - title: "Bachelor of Technology in Electronics and Communication Engineering"
         school:
-          name: "Motilal Nehru National Institute of Technology ALlahabad, Prayagraj"
+          name: "Motilal Nehru National Institute of Technology Allahabad, Prayagraj"
           url: "https://www.mnnit.ac.in/"
         date: "2013 - 2017"
         GPA: "8.28 out of 10.0"
@@ -272,22 +272,26 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
+      - title: UnitedHealth Group Innovation Award
+        content: Awarded twice highest organisational innovation award, Make IT Happen (2019, 2020).
         image: /images/achievment.jpg
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
+      - title: Emerging Leader Program
+        content: Inducted into UHG Emerging Leader Program, for leading the development of New Jersey and Wisconsin HealthCare business solutions.
         image: /images/achievment.jpg
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
+      - title: Stratethon Hackathon
+        content: Secured 1st position at national Stage in Stratethon, largest organisational hackathon .
+        url: "https://unstop.com/competition/optum-stratethon-season-2-optum-part-of-unitedhealth-group-132668"
         image: /images/achievment.jpg
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+      - title: Best Social Good Hack - Bitcamp
+        content: Secured 1st position in Social Do Good category during annual hackathon conducted by Bitcamp.
+        url: "https://bitcamp2024.devpost.com/"
+        image: /images/achievment.jpg
+      - title: UHG Net-Zero initiative
+        content: The Proposed Carbon-Neutral business idea got inducted into the UHG Net-Zero initiative .
+      - title: Codechef International Coding Contest
+        content: Won global March Long Database and Algorithm competition, CodeChef online competitive programming platform.
+        url: https://www.codechef.com/
+        image: /images/codechef.png
 
   # projects
   projects:
